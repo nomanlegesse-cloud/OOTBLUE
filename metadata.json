@@ -1,0 +1,6 @@
+{
+  "name": "AetherPhone 3D",
+  "description": "Interactive 3D smartphone simulator with a complete persistent operating system, App Store, playable games, and real device camera integration.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
